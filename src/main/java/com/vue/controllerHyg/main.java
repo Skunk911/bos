@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 public class main {
 
     public void test(){
-        System.out.println("123");
+        System.out.println("qwe");
     }
 
 }
